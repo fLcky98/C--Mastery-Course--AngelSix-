@@ -10,3 +10,4 @@ G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.dll
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.pdb
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.genruntimeconfig.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.csprojAssemblyReference.cache

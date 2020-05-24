@@ -10,6 +10,11 @@ namespace BirthDayCalculator
             Console.WriteLine("Hello World!");
             var usersDateOfBirth = AskForDateOfBirth();
             Console.WriteLine(usersDateOfBirth);
+            var a = 0;
+            var b = false;
+            var c = DateTimeOffset.MinValue;
+
+            Test(a, b, c);
         }
 
         public static void IntroduceSavvy()
@@ -19,11 +24,28 @@ namespace BirthDayCalculator
 
         public static DateTimeOffset AskForDateOfBirth()
         {
-            Console.WriteLine("Could you please provide me with your date of birth? " + CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern);
+            Console.WriteLine($"Could you please provide me with your date of birth? {CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern}");
 
             var userText = Console.ReadLine();
+            var parsedDate = DateTimeOffset.MinValue;
 
-            return DateTimeOffset.Parse(userText);
+            var succeeded = DateTimeOffset.TryParse(userText, out parsedDate);
+
+            if (succeeded == false)
+            {
+                Console.WriteLine("Hmm.. That doesn't seem right!");
+
+                return DateTimeOffset.Now;
+            }
+
+            return parsedDate;
+ 
+        }
+        public static void Test(int a, bool b, DateTimeOffset c)
+        {
+            a = 5;
+            b = true;
+            c = DateTimeOffset.UtcNow;
         }
     }
 }
