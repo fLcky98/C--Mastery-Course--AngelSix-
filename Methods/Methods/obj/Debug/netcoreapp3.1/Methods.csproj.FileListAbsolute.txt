@@ -1,0 +1,13 @@
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+G:\Git\repos\C--Mastery-Course--AngelSix-\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

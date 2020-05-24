@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnv6RVFZaNEhnzHg8PUItQxtZUe8a5/zrhN5c07sXV86ICkRxk5jyXQy8Yw74B6tuikN+DUR9RUCgZbZi4fNBw==",
+  "success": true,
+  "projectFilePath": "G:\\Git\\repos\\C--Mastery-Course--AngelSix-\\Methods\\Methods\\Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
