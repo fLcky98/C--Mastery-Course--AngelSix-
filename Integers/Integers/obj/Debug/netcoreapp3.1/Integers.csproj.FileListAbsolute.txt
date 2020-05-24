@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.exe
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.deps.json
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.runtimeconfig.json
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.runtimeconfig.dev.json
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.dll
+C:\Users\peter\source\repos\Integers\Integers\bin\Debug\netcoreapp3.1\Integers.pdb
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.AssemblyInfo.cs
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.dll
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.pdb
+C:\Users\peter\source\repos\Integers\Integers\obj\Debug\netcoreapp3.1\Integers.genruntimeconfig.cache
