@@ -1,0 +1,12 @@
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.AssemblyInfoInputs.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.AssemblyInfo.cs
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.csproj.CoreCompileInputs.cache
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.exe
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.deps.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.runtimeconfig.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.runtimeconfig.dev.json
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.dll
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.pdb
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.dll
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.pdb
+G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.genruntimeconfig.cache
