@@ -11,3 +11,16 @@ G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.pdb
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.genruntimeconfig.cache
 G:\Git\repos\C--Mastery-Course--AngelSix-\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.exe
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.deps.json
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.runtimeconfig.json
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.runtimeconfig.dev.json
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.dll
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\bin\Debug\netcoreapp3.1\BirthDayCalculator.pdb
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.AssemblyInfo.cs
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.dll
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.pdb
+C:\Users\peter\source\repos\C# Mastery Course (AngelSix)\BirthDayCalculator\BirthDayCalculator\obj\Debug\netcoreapp3.1\BirthDayCalculator.genruntimeconfig.cache
