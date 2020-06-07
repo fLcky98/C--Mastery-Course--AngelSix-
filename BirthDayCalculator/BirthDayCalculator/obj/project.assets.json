@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\peter\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "G:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\C# Mastery Course (AngelSix)\\BirthDayCalculator\\BirthDayCalculator\\BirthDayCalculator.csproj",
+      "projectUniqueName": "G:\\Git\\repos\\C--Mastery-Course--AngelSix-\\BirthDayCalculator\\BirthDayCalculator\\BirthDayCalculator.csproj",
       "projectName": "BirthDayCalculator",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\C# Mastery Course (AngelSix)\\BirthDayCalculator\\BirthDayCalculator\\BirthDayCalculator.csproj",
+      "projectPath": "G:\\Git\\repos\\C--Mastery-Course--AngelSix-\\BirthDayCalculator\\BirthDayCalculator\\BirthDayCalculator.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\C# Mastery Course (AngelSix)\\BirthDayCalculator\\BirthDayCalculator\\obj\\",
+      "outputPath": "G:\\Git\\repos\\C--Mastery-Course--AngelSix-\\BirthDayCalculator\\BirthDayCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "G:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
